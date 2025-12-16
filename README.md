@@ -18,7 +18,7 @@ The board uses USB 5V to power an LED through a resistor. The USB data lines are
 
 ### Schematic
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/81a5dd21-4a75-4edb-bf1c-8e0d61c9e63a" width="500">
-  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8e3dbd1f-46d7-4843-9c93-cb991eb85dae" />
+  <img src="https://github.com/user-attachments/assets/81a5dd21-4a75-4edb-bf1c-8e0d61c9e63a" width="400">
+  <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/8e3dbd1f-46d7-4843-9c93-cb991eb85dae" />
 
 </p>
