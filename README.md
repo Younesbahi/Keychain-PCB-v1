@@ -9,6 +9,7 @@ The board uses USB 5V to power an LED through a resistor. The USB data lines are
 |------|-------------|----------|------------|------------|-----|----------------------------|
 | MP000441 | White SMD LED 0805 | 5 | $0.15 | $0.75 | [Link](https://www.newark.com/multicomp-pro/mp000441/led-white-600mcd-0805-smd/dp/34AH1330?utm_source) | $0.85 |
 | CRCW06031K00FKTA | 1 kΩ Resistor 0603 | 5 | $0.16 | $0.78 | [Link](https://www.newark.com/vishay/crcw06031k00fkta/res-thick-film-1k-1-0-1w-0603/dp/66F9079?utm_source) | $0.88 |
+| PCB | PCB | 5 | $0.44 | $2.20 | [Link](https://jlcpcb.com/) | $2.49 |
 
 ### Rendered PCB
 <p align="center">
