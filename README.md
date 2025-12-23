@@ -5,11 +5,12 @@ This project is a simple USB powered PCB keychain that lights up when plugged in
 The board uses USB 5V to power an LED through a resistor. The USB data lines are left unconnected on purpose. The keychain is meant to hang on my large, annoying set of keys and includes my personalized information on the back. If I ever lose them, whoever finds them knows who to return them to.
 
 ## BOM
-| Item | Description | Quantity | Unit Price | Total Price | URL | Running Total ($ with Tax) |
-|------|-------------|----------|------------|------------|-----|----------------------------|
-| MP000441 | White SMD LED 0805 | 5 | $0.15 | $0.75 | [Link](https://www.newark.com/multicomp-pro/mp000441/led-white-600mcd-0805-smd/dp/34AH1330?utm_source) | $0.85 |
-| CRCW06031K00FKTA | 1 kΩ Resistor 0603 | 5 | $0.16 | $0.78 | [Link](https://www.newark.com/vishay/crcw06031k00fkta/res-thick-film-1k-1-0-1w-0603/dp/66F9079?utm_source) | $0.88 |
-| PCB | PCB | 5 | $0.44 | $2.20 | [Link](https://jlcpcb.com/) | $2.49 |
+| Item       | Description             | Quantity | Unit Price ($) | Total Price ($) | URL                                                                 | Running Total ($ w/ Tax) | Total w/ Shipping ($) |
+|------------|-------------------------|----------|----------------|-----------------|----------------------------------------------------------------------|---------------------------|------------------------|
+| C130115    | White SMD LED 0805      | 5        | 0.03           | 0.16            | https://www.lcsc.com/product-detail/C130115.html                     | 0.18                      | 16.78                  |
+| C2076063   | 1 kΩ Resistor 0603      | 5        | 0.52           | 2.60            | https://www.lcsc.com/product-detail/C2076063.html                    | 2.94                      |                        |
+| PCB        | PCB Manufacturing       | 5        | 0.44           | 2.20            | https://jlcpcb.com/                                                  | 2.49                      | 8.10                   |
+| **Total**  |                         |          |                |                 |                                                                      |                           | **24.88**              |
 
 ### Rendered PCB
 <p align="center">
